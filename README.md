@@ -1,10 +1,10 @@
-# ServerStatus-Toyo： 
+# ServerStatus： 
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 * ServerStatus-Toyo版是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针~，该云监控（云探针）是ServerStatus（ https://github.com/tenyue/ServerStatus ）项目的优化/修改版。
-* 在线演示：https://tz.toyoo.pw    
-* 我的博客：https://doub.io/shell-jc3/
+* 在线演示：https://tz.nosoxo.com    
+* 我的博客：https://blog.nosoxo.com
 
 # 目录介绍：
 
@@ -14,7 +14,7 @@
 
 # 更新说明：
 
-* 2018.08.21, 修改新样式，效果见 https://tz.toyoo.pw  
+* 2018.08.21, 修改新样式，效果见 https://tz.nosoxo.com  
 * 2017.10.12, 负载Load 优化，并且支持CentOS6系统
 * 2017.10.10, 修改负载 Load 的值为：当前服务器上链接SSR等软件的IP总数(只要软件监听IPv6那么就能统计，例如SSH)
 * 2017.04.30, 优化手机显示式样
@@ -69,7 +69,7 @@ bash status.sh s
 
 ``` bash
 ServerStatus 一键安装管理脚本 [vx.x.x]
--- Toyo | doub.io/shell-jc3 --
+--  --
  
 0. 升级脚本
 ————————————
